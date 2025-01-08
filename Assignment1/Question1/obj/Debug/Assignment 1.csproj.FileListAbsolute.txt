@@ -1,0 +1,4 @@
+E:\My_Gitdata\DOTNET\Assignments\Hello World\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
+E:\My_Gitdata\DOTNET\Assignments\Hello World\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+E:\My_Gitdata\DOTNET\Assignments\Hello World\obj\Debug\Hello World.exe
+E:\My_Gitdata\DOTNET\Assignments\Hello World\obj\Debug\Hello World.pdb

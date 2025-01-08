@@ -1,0 +1,7 @@
+E:\My_Gitdata\DOTNET\Assignments\Question3\bin\Debug\Question3.exe.config
+E:\My_Gitdata\DOTNET\Assignments\Question3\bin\Debug\Question3.exe
+E:\My_Gitdata\DOTNET\Assignments\Question3\bin\Debug\Question3.pdb
+E:\My_Gitdata\DOTNET\Assignments\Question3\obj\Debug\Question3.csproj.AssemblyReference.cache
+E:\My_Gitdata\DOTNET\Assignments\Question3\obj\Debug\Question3.csproj.CoreCompileInputs.cache
+E:\My_Gitdata\DOTNET\Assignments\Question3\obj\Debug\Question3.exe
+E:\My_Gitdata\DOTNET\Assignments\Question3\obj\Debug\Question3.pdb

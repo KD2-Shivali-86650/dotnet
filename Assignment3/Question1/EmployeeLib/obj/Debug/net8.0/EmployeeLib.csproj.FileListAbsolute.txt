@@ -1,0 +1,12 @@
+E:\My_Gitdata\DOTNET\Assignment\EmployeeLib\bin\Debug\net8.0\EmployeeLib.deps.json
+E:\My_Gitdata\DOTNET\Assignment\EmployeeLib\bin\Debug\net8.0\EmployeeLib.dll
+E:\My_Gitdata\DOTNET\Assignment\EmployeeLib\bin\Debug\net8.0\EmployeeLib.pdb
+E:\My_Gitdata\DOTNET\Assignment\EmployeeLib\obj\Debug\net8.0\EmployeeLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Gitdata\DOTNET\Assignment\EmployeeLib\obj\Debug\net8.0\EmployeeLib.AssemblyInfoInputs.cache
+E:\My_Gitdata\DOTNET\Assignment\EmployeeLib\obj\Debug\net8.0\EmployeeLib.AssemblyInfo.cs
+E:\My_Gitdata\DOTNET\Assignment\EmployeeLib\obj\Debug\net8.0\EmployeeLib.csproj.CoreCompileInputs.cache
+E:\My_Gitdata\DOTNET\Assignment\EmployeeLib\obj\Debug\net8.0\EmployeeLib.sourcelink.json
+E:\My_Gitdata\DOTNET\Assignment\EmployeeLib\obj\Debug\net8.0\EmployeeLib.dll
+E:\My_Gitdata\DOTNET\Assignment\EmployeeLib\obj\Debug\net8.0\refint\EmployeeLib.dll
+E:\My_Gitdata\DOTNET\Assignment\EmployeeLib\obj\Debug\net8.0\EmployeeLib.pdb
+E:\My_Gitdata\DOTNET\Assignment\EmployeeLib\obj\Debug\net8.0\ref\EmployeeLib.dll
